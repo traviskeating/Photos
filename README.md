@@ -3,7 +3,7 @@ Repository to store photos
 
 # Top Level
 Ipsum loren something or other
-![A funny Pic](http://i.imgur.com/Bqon5Ha.gifv)
+![A funny Pic](http://i.imgur.com/Vlv5ATh.jpg)
 ## Here is a heading
 ~~Strike through~~
 
