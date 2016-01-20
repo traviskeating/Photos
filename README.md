@@ -4,6 +4,8 @@ Repository to store photos
 # Top Level
 Ipsum loren something or other
 
+>If life was a box of choclates your box would be filled with nasty fake choclates
+
 ![A funny Pic](http://i.imgur.com/Vlv5ATh.jpg)
 
 *Food
